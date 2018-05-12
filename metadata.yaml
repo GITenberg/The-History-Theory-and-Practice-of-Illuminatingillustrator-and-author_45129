@@ -1,0 +1,36 @@
+_repo: The-History-Theory-and-Practice-of-Illuminatingillustrator-and-author_45129
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Tymms, W. R. (William Robert)
+    alias: Tymms, William Robert
+    gutenberg_agent_id: '43115'
+    url: http://www.gutenberg.org/2009/agents/43115
+covers:
+- cover_type: archival
+  image_path: 45129-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wyatt, M. Digby (Matthew Digby), Sir
+    alias: Wyatt, Matthew Digby, Sir
+    birthdate: 1820
+    deathdate: 1877
+    gutenberg_agent_id: '36658'
+    url: http://www.gutenberg.org/2009/agents/36658
+description: ''
+gutenberg_issued: '2014-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Alphabet'
+- !lcsh 'Initials'
+- !lcsh 'Illumination of books and manuscripts'
+title: "The History, Theory, and Practice of Illuminating\r\nCondensed from 'The Art\
+  \ of Illuminating' by the same illustrator and author"
+url: http://www.gutenberg.org/ebooks/45129
