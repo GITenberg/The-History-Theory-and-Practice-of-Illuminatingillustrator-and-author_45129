@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '36658'
     url: http://www.gutenberg.org/2009/agents/36658
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45129#The-History-Theory-and-Practice-of-Illuminatingillustrator-and-author
 gutenberg_issued: '2014-03-13'
 gutenberg_type: Text
 identifiers:
